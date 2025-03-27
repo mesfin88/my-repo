@@ -1,0 +1,41 @@
+To push newly added files to your repository in C:\projects\my-repo, follow these steps:
+
+1. Open Command Prompt or PowerShell
+Press Win + R, type cmd or powershell, and press Enter.
+
+2. Navigate to the Repository Directory
+Run:
+
+sh
+Copy
+Edit
+cd C:\projects\my-repo
+3. Check Repository Status
+Run:
+
+sh
+Copy
+Edit
+git status
+This will show you any newly added or modified files.
+
+4. Add New Files
+To stage all new files, run:
+
+sh
+Copy
+Edit
+git add .
+Or, to add specific files, run:
+
+sh
+Copy
+Edit
+git add <filename>
+5. Commit the Changes
+Run:
+
+sh
+Copy
+Edit
+git commit -m "Added new files"
