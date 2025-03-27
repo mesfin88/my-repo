@@ -1,0 +1,733 @@
+
+User: Zinash Weldachew 
+Department: property admin 
+Computer Name: ZINASH 
+Computer Name: keyocera p 3045dn 
+ 
+Serial Number: 
+PC1BWXAY      
+
+ 
+System Model and Vendor: 
+11BGS02C00  LENOVO  
+
+ 
+Manufacturing Date: 25/10/2019 
+ 
+OS Information: 
+22000        Microsoft Windows 11 Pro  10.0.22000  
+
+ 
+MAC Address: 
+6C:4B:90:D8:6D:9B  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        289707913216              
+D:        NTFS        33554427904               
+E:        NTFS        209715195904              
+F:                                              
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  WDC WD5000AZLX-08K2TA0    500105249280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120   
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    Microsoft XPS Document Writer  
+FALSE    Microsoft Print to PDF         
+FALSE    Kyocera ECOSYS P3045dn KX      
+TRUE     Kyocera ECOSYS P3045dn         
+FALSE    Fax                            
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: Zelalem adera 
+Department: Property admin 
+Computer Name: PPDT-11 
+Computer Name: no 
+ 
+Serial Number: 
+TRF4480JBH    
+
+ 
+System Model and Vendor: 
+HP Pro3500 G2 MT PC  Hewlett-Packard  
+
+ 
+Manufacturing Date: 05/05/2014 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Enterprise  10.0.19045  
+
+ 
+MAC Address: 
+C4:34:6B:5F:F3:84  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        167135514624              
+D:        NTFS        33554427904               
+E:        NTFS        332318896128              
+F:                                              
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  WDC WD5000AAKX-60U6AA0    500105249280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120   
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    OneNote for Windows 10         
+FALSE    Microsoft XPS Document Writer  
+TRUE     Microsoft Print to PDF         
+FALSE    Fax                            
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: YESHI MEKONEN 
+Department: "Propety admin"  
+Computer Name: PP-DT20 
+Computer Name: NO 
+ 
+Serial Number: 
+G3M4F2S       
+
+ 
+System Model and Vendor: 
+OptiPlex 790  Dell Inc.  
+
+ 
+Manufacturing Date: 17/07/2012 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Enterprise  10.0.19045  
+
+ 
+MAC Address: 
+18:03:73:3E:D6:E6  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        261566230528              
+D:        NTFS        33554427904               
+E:        NTFS        237488828416              
+F:                                              
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  ST500DM002-1BD142         500105249280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120   
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    OneNote for Windows 10         
+FALSE    Microsoft XPS Document Writer  
+FALSE    Microsoft Print to PDF         
+TRUE     HP LaserJet 400 M401 PCL 6     
+FALSE    Fax                            
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: Yeworkwiha mekuria 
+Department: "Propety admin"  
+Computer Name: FSC-PC 
+Computer Name: LaserJet Pro 400 m401d 
+ 
+Serial Number: 
+4CE0351DXC    
+
+ 
+System Model and Vendor: 
+HP 290 G3 MT Business PC  HP      
+
+ 
+Manufacturing Date: 30/06/2020 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro  10.0.19045  
+
+ 
+MAC Address: 
+9C:7B:EF:56:E7:07  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        369976406016              
+D:        NTFS        629144547328  New Volume  
+E:                                              
+F:        NTFS        33554427904               
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  ST1000DM003-1SB102        1000202273280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120    
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010                
+FALSE    OneNote for Windows 10              
+FALSE    Microsoft XPS Document Writer       
+FALSE    Microsoft Print to PDF              
+FALSE    Kyocera ECOSYS P3045dn KX (Copy 1)  
+FALSE    Kyocera ECOSYS P3045dn KX           
+TRUE     HP LaserJet 400 M401 PCL 6          
+FALSE    Brother HL-6180DW series            
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: Bayush Kifle 
+Department: "Propety admin"  
+Computer Name: DESKTOP-33A968T 
+Computer Name: no 
+ 
+Serial Number: 
+TRF4480J91    
+
+ 
+System Model and Vendor: 
+HP Pro3500 G2 MT PC  Hewlett-Packard  
+
+ 
+Manufacturing Date: 05/05/2014 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro N  10.0.19045  
+
+ 
+MAC Address: 
+C4:34:6B:65:CB:8F  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        167680929792              
+D:        NTFS        33554427904               
+E:        NTFS        332318896128              
+F:        NTFS        27262971904               
+G:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  WDC WD5000AAKX-60U6AA0    500105249280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120   
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    OneNote for Windows 10         
+FALSE    Microsoft XPS Document Writer  
+TRUE     Microsoft Print to PDF         
+FALSE    Fax                            
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: Mekia Ali
+Department: "chilote Tsehaf"  
+Computer Name: BENC-DT02 
+Computer Name: keycera fs2100DN 
+ 
+Serial Number: 
+4CE0351F31    
+
+ 
+System Model and Vendor: 
+HP 290 G3 MT Business PC  HP      
+
+ 
+Manufacturing Date: 30/06/2020 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro  10.0.19045  
+
+ 
+MAC Address: 
+9C:7B:EF:56:E9:48  
+AA:CD:C4:B4:F1:0B  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        499464007680              
+D:        NTFS        500112027648  Local Disk  
+E:                                              
+F:        NTFS        33554427904               
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  WDC WD10EZEX-60WN4A1      1000202273280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120    
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    OneNote for Windows 10         
+FALSE    Microsoft XPS Document Writer  
+FALSE    Microsoft Print to PDF         
+TRUE     Kyocera FS-2100DN              
+FALSE    Fax                            
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/26/25, 8:20:22 AM
+System Manufacturer:       HP
+System Model:              HP 290 G3 MT Business PC
+System Type:               x64-based PC
+System Directory:          C:\Windows\system32
+System Locale:             en-us;English (United States)
+
+F:\>wmic os get caption,version,buildnumber,osarchitecture /format:list
+
+
+BuildNumber=19045
+Caption=Microsoft Windows 10 Pro
+OSArchitecture=64-bit
+Version=10.0.19045
+
+
+
+
+F:\>wmic memorychip get capacity
+Capacity
+8589934592
+
+
+F:\>wmic os get buildnumber
+BuildNumber
+19045
+ 
+Physical Printer MAC Address: 
+ 192.168.137.1 --- 0x7 
+ 
+----------------------------------- 
+ 
+User: Fireneh Shimelis  
+Department: "chilote Tsehaf"  
+Computer Name: DESKTOP-T2VGP23 
+Computer Name: no 
+ 
+Serial Number: 
+JR6W7B3       
+
+ 
+System Model and Vendor: 
+OptiPlex 5080  Dell Inc.  
+
+ 
+Manufacturing Date: 17/08/2020 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro  10.0.19045  
+
+ 
+MAC Address: 
+A4:BB:6D:DF:9A:35  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        255265337344                   
+D:                                                   
+E:        NTFS        607121408     System Reserved  
+F:        NTFS        498806431744                   
+G:        NTFS        499856175104  New Volume       
+H:        NTFS        33554427904                    
+I:        NTFS        27262971904                    
+J:        FAT         703397888     DATA             
+
+ 
+Disk Drive Information: 
+SCSI           (Standard disk drives)  Fixed hard disk media  Micron 2450 NVMe 256GB                   256052966400   
+IDE            (Standard disk drives)  Fixed hard disk media  ST1000NM0033         81Y9807 81Y3867IBM  1000202273280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device                 61516869120    
+
+ 
+Installed Printers: 
+FALSE    OneNote for Windows 10         
+FALSE    OneNote (Desktop)              
+FALSE    Microsoft XPS Document Writer  
+TRUE     Microsoft Print to PDF         
+FALSE    Fax                            
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: abiyot danka 
+Department: "chilote Tsehaf"  
+Computer Name: SAC-DT02 
+Computer Name: Brother HL-L5200DW 
+ 
+Serial Number: 
+PC1BWWNX      
+
+ 
+System Model and Vendor: 
+11BGS02C00  LENOVO  
+
+ 
+Manufacturing Date: 25/10/2019 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro  10.0.19045  
+
+ 
+MAC Address: 
+6C:4B:90:D8:6C:29  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        249308377088              
+D:        NTFS        250004631552  Local Disk  
+E:                                              
+F:        NTFS        33554427904               
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  WDC WD5000AZLX-08K2TA0    500105249280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120   
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    OneNote for Windows 10         
+FALSE    OneNote (Desktop)              
+FALSE    Microsoft XPS Document Writer  
+FALSE    Microsoft Print to PDF         
+FALSE    Fax                            
+TRUE     Brother HL-L5200DW series      
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/25/25, 8:55:13 AM
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 5080
+System Type:               x64-based PC
+System Directory:          C:\WINDOWS\system32
+System Locale:             en-us;English (United States)
+
+F:\>systeminfo   | findstr /i "System Type"
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/25/25, 3:45:44 PM
+System Manufacturer:       LENOVO
+System Model:              11BGS02C00
+System Type:               x64-based PC
+System Directory:          C:\WINDOWS\system32
+System Locale:             en-us;English (United States)
+
+F:\>wmic os get caption,version,buildnumber,osarchitecture /format:list
+
+
+BuildNumber=19045
+Caption=Microsoft Windows 10 Pro
+OSArchitecture=64-bit
+Version=10.0.19045
+
+
+
+
+F:\>wmic memorychip get capacity
+Capacity
+4294967296
+
+
+F:\>wmic os get buildnumber
+BuildNumber
+19045
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: Ebrahim bogale 
+Department: "chilote Tsehaf"  
+Computer Name: SEC-DT01 
+Computer Name: keyocera FS-2100DN 
+ 
+Serial Number: 
+4ZR20H2       
+
+ 
+System Model and Vendor: 
+OptiPlex 3040  Dell Inc.  
+
+ 
+Manufacturing Date: 29/08/2016 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro  10.0.19045  
+
+ 
+MAC Address: 
+48:4D:7E:AD:A9:53  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        248933519360              
+D:        NTFS        250052866048              
+E:                                              
+F:        NTFS        33554427904               
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  WDC WD5000AZLX-75K2TA0    500105249280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120   
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2013                    
+FALSE    Send To OneNote 2010                    
+FALSE    OneNote for Windows 10                  
+FALSE    Microsoft XPS Document Writer           
+FALSE    Microsoft Print to PDF                  
+FALSE    Kyocera FS-2100DN KX                    
+FALSE    Kyocera ECOSYS P3045dn KX               
+FALSE    HP LaserJet 400 M401 PCL6 Class Driver  
+FALSE    HP LaserJet 400 M401 PCL 6              
+FALSE    Fax                                     
+TRUE     Brother HL-L5200DW series               
+
+F:\>systeminfo   | findstr /i "System Type"
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/25/25, 3:45:44 PM
+System Manufacturer:       LENOVO
+System Model:              11BGS02C00
+System Type:               x64-based PC
+System Directory:          C:\WINDOWS\system32
+System Locale:             en-us;English (United States)
+
+F:\>systeminfo   | findstr /i "System Type"
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/25/25, 11:46:08 PM
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 3040
+System Type:               x64-based PC
+System Directory:          C:\WINDOWS\system32
+System Locale:             en-us;English (United States)
+
+F:\>wmic os get caption,version,buildnumber,osarchitecture /format:list
+
+
+BuildNumber=19045
+Caption=Microsoft Windows 10 Pro
+OSArchitecture=64-bit
+Version=10.0.19045
+
+
+
+
+F:\>wmic memorychip get capacity
+Capacity
+4294967296
+
+
+F:\>wmic os get buildnumber
+BuildNumber
+19045
+
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: "Tilahun Fikre"  
+Department: "chilote Tsehaf"  
+Computer Name: DESKTOP-N5OA89O 
+Computer Name: "Brother HL-L5200DW":  
+ 
+Serial Number: 
+2YXPFS2       
+
+ 
+System Model and Vendor: 
+OptiPlex 3050  Dell Inc.  
+
+ 
+Manufacturing Date: 09/08/2018 
+ 
+OS Information: 
+22631        Microsoft Windows 11 Pro N  10.0.22631  
+
+ 
+MAC Address: 
+8C:EC:4B:9A:4A:0C  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        124572921856              
+D:        NTFS        880799744                 
+E:        NTFS        374547148800  data(D)     
+F:        NTFS        33554427904               
+G:        NTFS        27262971904               
+H:        FAT         703397888     DATA        
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  ST1000DM010-2EP102        1000202273280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120    
+
+ 
+Installed Printers: 
+FALSE    Microsoft Print to PDF     
+TRUE     Brother HL-L5200DW series  
+
+ F:\>systeminfo   | findstr /i "System Type"
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/25/25, 3:45:44 PM
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 3050
+System Type:               x64-based PC
+System Directory:          C:\Windows\system32
+System Locale:             en-us;English (United States)
+
+F:\>wmic os get caption,version,buildnumber,osarchitecture /format:list
+
+
+BuildNumber=22631
+Caption=Microsoft Windows 11 Pro N
+OSArchitecture=64-bit
+Version=10.0.22631
+
+
+
+
+F:\>wmic memorychip get capacity
+Capacity
+4294967296
+
+
+F:\>wmic os get buildnumber
+BuildNumber
+22631
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
+User: "zuriashwork gebiru"  
+Department: "chilote Tsehaf"  
+Computer Name: DESKTOP-9LFC47N 
+Computer Name: "HP Letherjet pro 400m401d":  
+ 
+Serial Number: 
+4CJ58B3       
+
+ 
+System Model and Vendor: 
+OptiPlex 5080  Dell Inc.  
+
+ 
+Manufacturing Date: 17/08/2020 
+ 
+OS Information: 
+19045        Microsoft Windows 10 Pro  10.0.19045  
+
+ 
+MAC Address: 
+A4:BB:6D:DF:A8:53  
+
+ 
+Total Disk Size: 0 GB 
+ 
+Drive Information: 
+C:        NTFS        498930728960                   
+D:        NTFS        607121408     System Reserved  
+E:        NTFS        499856175104  New Volume       
+F:                                                   
+G:        NTFS        33554427904                    
+H:        NTFS        27262971904                    
+I:        FAT         703397888     DATA             
+
+ 
+Disk Drive Information: 
+IDE            (Standard disk drives)  Fixed hard disk media  TOSHIBA DT01ACA100        1000202273280  
+USB            (Standard disk drives)  Removable Media        SanDisk Ultra USB Device  61516869120    
+
+ 
+Installed Printers: 
+FALSE    Send To OneNote 2010           
+FALSE    OneNote for Windows 10         
+FALSE    Microsoft XPS Document Writer  
+FALSE    Microsoft Print to PDF         
+TRUE     HP LaserJet 400 M401 PCL 6     
+FALSE    Fax                            
+G:\>systeminfo   | findstr /i "System Type"
+OS Build Type:             Multiprocessor Free
+System Boot Time:          03/25/25, 5:46:18 AM
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 5080
+System Type:               x64-based PC
+System Directory:          C:\WINDOWS\system32
+System Locale:             en-us;English (United States)
+
+G:\>wmic os get caption,version,buildnumber,osarchitecture /format:list
+
+
+BuildNumber=19045
+Caption=Microsoft Windows 10 Pro
+OSArchitecture=64-bit
+Version=10.0.19045
+
+
+
+
+G:\>wmic memorychip get capacity
+Capacity
+8589934592
+8589934592
+
+
+G:\>wmic os get buildnumber
+BuildNumber
+19045
+ 
+Physical Printer MAC Address: 
+ 
+----------------------------------- 
+ 
